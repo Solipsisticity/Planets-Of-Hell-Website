@@ -143,11 +143,6 @@ export default function Home() {
             Created, owned, and developed by Solipsisticity &amp; ApartRipped.
           </p>
 
-          <p className="text-white/50">
-            Additional contributions by qYukiiiii, including UI design
-            and involvement in the initial game concept.
-          </p>
-
           <p className="text-white/40">
             Collapse Initiative is an independent Roblox game development
             studio owned and operated by Solipsisticity &amp; ApartRipped.
